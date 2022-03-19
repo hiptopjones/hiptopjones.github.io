@@ -17,6 +17,7 @@ The first thing is to generate some terrain.
 The following screenshots are the result of these efforts:
 
 ![Flat Terrain]({{ "/assets/images/Terrain1.png" }})
+
 ![Mesh Terrain]({{ "/assets/images/Terrain2.png" }})
 
 Here are the inspector settings used to produce that landscape:
