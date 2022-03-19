@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Contours"
+date:   2022-03-19 10:59:00 -0700
+categories: 
+---
+I now had a terrain and some basic pathfinding.  However, using a color map as the texture was making it hard to visually test if the pathfinding was working correctly since there could be a lot of height variation within a color.
+
+To solve this, I created a contour image.  The contours are drawn by drawing black pixels where the height value is very close to an integer value.  Everything else is gray (or white in later versions).
+
+![Contour Texture]({{ "/assets/images/Contours1.png" }})
+
+Using this as the texture for the mesh, I could try to pick points along a contour and see if the path would generally prefer to follow contours between endpoints.
