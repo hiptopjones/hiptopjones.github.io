@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My day job is helping [Teledyne FLIR](https://www.flir.ca/iis/machine-vision/) build cutting edge machine vision cameras.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In my spare time, I am either learning something new or in the great outdoors (or both).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I feel fortunate to live and work and play in the vibrant and beautiful area around Vancouver, British Columbia.
 
-
-[jekyll-organization]: https://github.com/jekyll
+![Me at Widgeon Slough]({{ "/assets/images/widgeon.jpg" }})
