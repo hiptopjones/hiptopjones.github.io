@@ -16,7 +16,7 @@ When I was thinking about the contour problem, I explored Voronoi diagrams and L
 
 Once I saw what Delaunay could do, it was clear that was the solution for creating the mesh I needed.
 
-Rolling my own triangulation algorithm is something I'd like to do, but it would be significant work to put in the critical path of validating my hypothesis.  **Paul Bourke** came up as the solution again (remember CONREC?).
+Rolling my own implementation of the algorithm is something I'd like to do, but it would be significant work to put on the critical path of just validating my hypothesis.  **Paul Bourke** came up as the solution again (remember CONREC?).
 
 * [Triangulate](http://paulbourke.net/papers/triangulate/)
 * [Delaunay Triangulation in .NET 2.0 by Morten Nielsen](http://paulbourke.net/papers/triangulate/morten.html)
