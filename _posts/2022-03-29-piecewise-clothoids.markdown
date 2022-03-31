@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Layman's Teardown: Piecewise Clothoids"
-date:   2022-03-24 18:33:00 -0700
+date:   2022-03-29 18:33:00 -0700
 categories: 
 ---
 The paper we are going to teardown is the following:
