@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Layman's Teardown: Piecewise Clothoids"
+title:  "Layman's Teardown: Sketching Piecewise Clothoid Curves"
 date:   2022-03-29 18:33:00 -0700
 categories: 
 ---
+> I find research papers to often be difficult to grok as they are written for people already immersed in that domain.  However, the concepts are generally accessible to the layman if expressed with appropriate context.  I am calling this a "Layman's Teardown" in reference to teardowns of complex electronic assemblies.
+
 The paper we are going to teardown is the following:
 
 * [Sketching Piecewise Clothoid Curves](http://www.dgp.toronto.edu/~mccrae/projects/clothoid/sbim2008mccrae.pdf) by J. McCrae and K. Singh
