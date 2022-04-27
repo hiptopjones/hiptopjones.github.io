@@ -8,11 +8,11 @@ I had a bit of a mishap with my pathfinding algorithm, which suggested that it w
 
 ![Degenerate Pathfinding]({{ "/assets/images/DegeneratePathfinding.png" }})
 
-To verify operation, I moved the algorithm into a dedicated GameObject.  Using a coroutine the incremental advancement of the algorithm could be visualized.
+To verify operation, I moved the algorithm into a dedicated GameObject and used a coroutine to visualize the incremental advancement of the algorithm.
 
 ![Pathfinding Animation]({{ "/assets/images/PathfindingAnimation.gif" }})
 
-As a result, some problems were identified.  But it produces a much nicer path now.
+As a result, some problems were identified.  It produces a much nicer path now with that same set of endpoints.
  
-![Improved Pathfinding]({{ "/assets/images/ImprovedPathfinding.png" }})
+![Improved Pathfinding]({{ "/assets/images/ImprovedPathfinding.gif" }})
 
