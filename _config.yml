@@ -28,7 +28,7 @@ twitter_username:
 github_username:  hiptopjones
 
 # Build settings
-theme: tactile
+theme: minima
 plugins:
   - jekyll-feed
 
